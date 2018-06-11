@@ -1,2 +1,2 @@
 # mandal-art
-mandal-art using React Native
+making mandal-art using React Native
